@@ -2,7 +2,7 @@
 #$2 es nuestra tarjeta de red ethernet
 #$3 es nuestra tarejta de red inalambrica
 #$4 es nuestro sistema operativo
-if [ $# -lt 2 ]; then
+if [ $# -lt 4 ]; then
    echo "(Nombre_de_la_conexion,Tarjeta_ethernet,Tarjeta_inalambrica,Sistema operativo)"
    exit 1
 else
@@ -19,7 +19,7 @@ else
     brctl addif br0 $3;
     ip link set dev br0 up;
     dhclient br0;
-    if [$4 = "debian"] then
+    if [$4 == "debian"] then
         service NetworkManager stop
     else
         systemctl stop NetworkManager
