@@ -1,0 +1,28 @@
+
+
+Universidad De San Carlos de Guatemala
+Centro Universitario de occidente
+
+Este es un archivo con instrucciones para el montaje y ejecución del proyecto de redes de computadoras 1, para poder leer este archivo es necesario
+haber realizado la actualización de los repositorios del sistema operativo, haber instalado git y haber clonado el repositirio en el que se encuentra
+el proyecto: https//github.com/Fxhnd13/7mo_Redes1_Proyecto1
+
+INFORMACION IMPORTANTE
+
+	* Para poder ejecutar los comandos acontinuación será necesario otorgar los permisos correspondientes, esto se soluciona ejecutando el comando
+	  chmod +x para cada unos de los comandos que presenten un problema al ejecutar.
+
+	* Es necesario saber los identificadores de nuestra tarejeta ethernet y de nuestra tarjeta inalámbrica, dado que lo utilizaremos a lo largo de este proyecto
+	  podemos encontrar estos identificadores con los comandos ifconfig e iwconfig, siendo ifconfig para identificar nuestra tarjeta ethernet y con iwconfig
+	  para nuestra tarjeta inalámbrica. (Tarjeta ethernet: eno1, Tarjeta inalámbrica: wlo1).
+
+INSTRUCCIONES
+
+	* Ejecutar el archivo "Dependencias.sh" con el comando "./Dependencias.sh" si no se han realizado las instalaciones de los paquetes (bridge-utils, net-tools,
+	  network-manager).
+
+	* Ejecutar el archivo "Configuracion_AP.sh" con el comando "./Configuracion_AP.sh <nombre de nuestra conexion inalambrica existente><tarejeta ethernet>
+   	  <tarjeta inalambrica><sistema operativo>" si no se han realizado las configuraciones para crear el puente de red. (En sistema operativo colocar "debian").
+
+	* Ejecutar el archivo "compilar.sh" con el comando "./compilar.sh" para levantar nuestro access point y para ejecutar el programa en c encargado de regular
+	  la potencia de nuestro dispositivo.
