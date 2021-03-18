@@ -16,6 +16,10 @@ INFORMACION IMPORTANTE
 	  podemos encontrar estos identificadores con los comandos ifconfig e iwconfig, siendo ifconfig para identificar nuestra tarjeta ethernet y con iwconfig
 	  para nuestra tarjeta inalámbrica. (Tarjeta ethernet: eno1, Tarjeta inalámbrica: wlo1).
 
+	* Para ejecutar el comando "Configuracion_AP.sh" es necesario enviar como parametro el nombre de nuestra coneccion actual,
+	  para encontrar este nombre utilizaremos el comando nmcli conn show --active y buscaremos la que tenga como dispositivo
+	  ethernet.
+
 INSTRUCCIONES
 
 	* Ejecutar el archivo "Dependencias.sh" con el comando "./Dependencias.sh" si no se han realizado las instalaciones de los paquetes (bridge-utils, net-tools,
