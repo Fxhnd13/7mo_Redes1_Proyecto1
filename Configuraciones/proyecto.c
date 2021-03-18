@@ -12,7 +12,7 @@ char *itoa(int, char*, int);
 int main(){
     ejecutarComando("iwconfig wlo1 txpower 0");
     while(1){
-        separador(ejecutarComando("iw dev wlo1 station get AC:AF:B9:66:F7:62 | grep signal:"));
+        separador(ejecutarComando("iw dev wlo1 station get AC:AF:B9:66:F7:62 | grep \"signal avg\":"));
         usleep(5*1000000);
     }
 }
