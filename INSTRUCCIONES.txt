@@ -20,6 +20,9 @@ INFORMACION IMPORTANTE
 	  para encontrar este nombre utilizaremos el comando nmcli conn show --active y buscaremos la que tenga como dispositivo
 	  ethernet.
 
+	* Deberá modificar el archivo proyecto.c, específicamente la linea 16, reemplazando la dirección mac, por la que corresponda
+	  a su dispositivo.
+
 INSTRUCCIONES
 
 	* Ejecutar el archivo "Dependencias.sh" con el comando "./Dependencias.sh" si no se han realizado las instalaciones de los paquetes (bridge-utils, net-tools,

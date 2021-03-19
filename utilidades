@@ -1,7 +1,0 @@
-ifconfig wlan0 txpower <dbm>
-iw dev wlan0 station get [MAC]
-iw dev wlo1 station get AC:AF:B9:66:F7:62 | grep signal:
-
-Primero doy de baja el wifi: ifconfig wlan down 
-Luego al menos a mí le tuve que cambiar de país con: iw reg set BO
-Luego ajusto la potencia con el de txpower no recuerdo el comando pero ahí está en fijados luego doy de alta el wifi

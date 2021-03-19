@@ -1,0 +1,220 @@
+Configuration file: configuracion.conf
+Using interface wlo1 with hwaddr 40:49:0f:29:1b:f3 and ssid "red_proyecto"
+wlo1: interface state UNINITIALIZED->ENABLED
+wlo1: AP-ENABLED 
+wlo1: STA e0:88:5d:8f:31:da IEEE 802.11: disassociated
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: authenticated
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: associated (aid 1)
+wlo1: AP-STA-CONNECTED ac:af:b9:66:f7:62
+wlo1: STA ac:af:b9:66:f7:62 RADIUS: starting accounting session E64D51597A313F42
+wlo1: STA ac:af:b9:66:f7:62 WPA: pairwise key handshake completed (RSN)
+wlo1: interface state ENABLED->DISABLED
+wlo1: AP-STA-DISCONNECTED ac:af:b9:66:f7:62
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+Configuration file: configuracion.conf
+Using interface wlo1 with hwaddr 40:49:0f:29:1b:f3 and ssid "red_proyecto"
+wlo1: interface state UNINITIALIZED->ENABLED
+wlo1: AP-ENABLED 
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: authenticated
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: associated (aid 1)
+wlo1: AP-STA-CONNECTED ac:af:b9:66:f7:62
+wlo1: STA ac:af:b9:66:f7:62 RADIUS: starting accounting session 278A2BAA54073B3F
+wlo1: STA ac:af:b9:66:f7:62 WPA: pairwise key handshake completed (RSN)
+wlo1: interface state ENABLED->DISABLED
+wlo1: AP-STA-DISCONNECTED ac:af:b9:66:f7:62
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+Configuration file: configuracion.conf
+Using interface wlo1 with hwaddr 40:49:0f:29:1b:f3 and ssid "red_proyecto"
+wlo1: interface state UNINITIALIZED->ENABLED
+wlo1: AP-ENABLED 
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: authenticated
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: associated (aid 1)
+wlo1: AP-STA-CONNECTED ac:af:b9:66:f7:62
+wlo1: STA ac:af:b9:66:f7:62 RADIUS: starting accounting session 489CD1AA21166407
+wlo1: STA ac:af:b9:66:f7:62 WPA: pairwise key handshake completed (RSN)
+wlo1: STA ac:af:b9:66:f7:62 WPA: group key handshake completed (RSN)
+wlo1: interface state ENABLED->DISABLED
+wlo1: AP-STA-DISCONNECTED ac:af:b9:66:f7:62
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+Configuration file: configuracion.conf
+Using interface wlo1 with hwaddr 40:49:0f:29:1b:f3 and ssid "red_proyecto"
+wlo1: interface state UNINITIALIZED->ENABLED
+wlo1: AP-ENABLED 
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: authenticated
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: associated (aid 1)
+wlo1: AP-STA-CONNECTED ac:af:b9:66:f7:62
+wlo1: STA ac:af:b9:66:f7:62 RADIUS: starting accounting session 5CA2FA2478E3CF25
+wlo1: STA ac:af:b9:66:f7:62 WPA: pairwise key handshake completed (RSN)
+wlo1: interface state ENABLED->DISABLED
+wlo1: AP-STA-DISCONNECTED ac:af:b9:66:f7:62
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+Configuration file: configuracion.conf
+Using interface wlo1 with hwaddr 40:49:0f:29:1b:f3 and ssid "red_proyecto"
+wlo1: interface state UNINITIALIZED->ENABLED
+wlo1: AP-ENABLED 
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: authenticated
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: associated (aid 1)
+wlo1: AP-STA-CONNECTED ac:af:b9:66:f7:62
+wlo1: STA ac:af:b9:66:f7:62 RADIUS: starting accounting session 87F307CABD84E531
+wlo1: STA ac:af:b9:66:f7:62 WPA: pairwise key handshake completed (RSN)
+Configuration file: configuracion.conf
+nl80211: kernel reports: Match already configured
+nl80211: Could not configure driver mode
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+nl80211 driver initialization failed.
+wlo1: interface state UNINITIALIZED->DISABLED
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+hostapd_free_hapd_data: Interface wlo1 wasn't started
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+Configuration file: configuracion.conf
+nl80211: kernel reports: Match already configured
+nl80211: Could not configure driver mode
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+nl80211 driver initialization failed.
+wlo1: interface state UNINITIALIZED->DISABLED
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+hostapd_free_hapd_data: Interface wlo1 wasn't started
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+Configuration file: configuracion.conf
+nl80211: kernel reports: Match already configured
+nl80211: Could not configure driver mode
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+nl80211 driver initialization failed.
+wlo1: interface state UNINITIALIZED->DISABLED
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+hostapd_free_hapd_data: Interface wlo1 wasn't started
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+Configuration file: configuracion.conf
+nl80211: kernel reports: Match already configured
+nl80211: Could not configure driver mode
+nl80211: deinit ifname=wlo1 disabled_11b_rates=0
+nl80211 driver initialization failed.
+wlo1: interface state UNINITIALIZED->DISABLED
+wlo1: AP-DISABLED 
+wlo1: CTRL-EVENT-TERMINATING 
+hostapd_free_hapd_data: Interface wlo1 wasn't started
+wlo1: AP-STA-DISCONNECTED ac:af:b9:66:f7:62
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: disassociated due to inactivity
+wlo1: STA ac:af:b9:66:f7:62 IEEE 802.11: deauthenticated due to inactivity (timer DEAUTH/REMOVE)
+Failed to set beacon parameters
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
+handle_probe_req: send failed
